@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">u2a6_diazgarciacristian</string>
+    <string name="opci_n_de_men_a">Opción de Menú A</string>
+    <string name="opci_n_de_men_b">Opción de Menú B</string>
+    <string name="opci_n_de_men_c">Opción de Menú C</string>
+    <string name="mncttopc1">Mostrar nombre de usuario</string>
+    <string name="mncttopc1.2">No has introducido un nombre de usuario</string>
+    <string name="mncttopc2">Mostrar fecha actual</string>
+    <string name="mncttopc3">Información del autor de la app</string>
+    <string name="mnemgopc1">Mostrar texto</string>
+    <string name="mnemgopc2">Ocultar texto</string>
+    <string name="opciones">Menú de opciones</string>
+    <string name="emergente">Menú emergente</string>
+    <string name="textoOculto">Opción 1 seleccionada</string>
+</resources>
