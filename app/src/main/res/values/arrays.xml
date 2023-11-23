@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="respuestas">
+        <item>@string/extasiado</item>
+        <item>@string/feliz</item>
+        <item>@string/triste</item>
+        <item>@string/desolado</item>
+    </string-array>
+    <string name="extasiado">Extasiado ;O</string>
+    <string name="feliz">Feliz :)</string>
+    <string name="triste">Triste :(</string>
+    <string name="desolado">Desolado :´[</string>
+</resources>

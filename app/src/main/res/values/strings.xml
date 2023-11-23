@@ -1,15 +1,17 @@
 <resources>
     <string name="app_name">u2a6_diazgarciacristian</string>
-    <string name="opci_n_de_men_a">Opción de Menú A</string>
-    <string name="opci_n_de_men_b">Opción de Menú B</string>
-    <string name="opci_n_de_men_c">Opción de Menú C</string>
+    <string name="consultar">Consultar resultados previos</string>
+    <string name="consejos">Consejos</string>
+    <string name="informacion">Información</string>
+    <string name="realizarTest">Realizar Test</string>
+    <string name="cambiarUsuario">Cambiar nombre de usuario</string>
     <string name="mncttopc1">Mostrar nombre de usuario</string>
     <string name="mncttopc1.2">No has introducido un nombre de usuario</string>
     <string name="mncttopc2">Mostrar fecha actual</string>
     <string name="mncttopc3">Información del autor de la app</string>
-    <string name="mnemgopc1">Mostrar texto</string>
-    <string name="mnemgopc2">Ocultar texto</string>
-    <string name="opciones">Menú de opciones</string>
-    <string name="emergente">Menú emergente</string>
-    <string name="textoOculto">Opción 1 seleccionada</string>
+    <string name="appMental">AppMental</string>
+    <string name="pregunta">¿Cómo te sientes?</string>
+    <string name="username">Username</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cambiar">Cambiar</string>
 </resources>
